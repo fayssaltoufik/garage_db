@@ -1,6 +1,4 @@
--- New script in etpsjmkn.
--- Date: Feb. 1, 2023
--- Time: 8:25:31 p.m.
+
 
 
 --data insertion functions
